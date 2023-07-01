@@ -1,0 +1,28 @@
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 1.6rem;
+    background-color: Black;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  #image {
+    max-width:100%; 
+    padding: auto;
+    margin: 0 auto;
+    display: block;
+  
+  }
+  h1{
+    color: red;
+  }
+  #divider{
+    height: 10;
+    background-color:#a1a1a1;
+    padding-bottom: 1
+  }
+  p{
+    color: #a1a1a1
+  }
+  
